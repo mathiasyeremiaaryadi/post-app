@@ -1,3 +1,8 @@
+Tools
+================================
+1. Core UI Template
+2. Vue JS
+
 Cara Menjalankan Aplikasi Secara Lokal
 =============================================
 1. Sebelumnya pastikan Anda sudah memiliki library ``node`` untuk dependency/package manager
